@@ -1,0 +1,36 @@
+body {
+   background: #141C24;
+}
+
+.wrapper {
+   text-align: center;
+   height: 100%;
+   width: 1000px;
+   margin: 314px auto 0;
+}
+
+.header {
+   display: flex;
+   margin-bottom: 125px;
+   align-items: center;
+   justify-content: center;
+}
+
+.header img {
+   margin-right: 100px;
+}
+
+.header h1 {
+   font-weight: 400;
+   font-size: 48px;
+   line-height: 48px;
+   /* identical to box height */
+
+
+   color: #FFFFFF;
+}
+
+.images img {
+   text-align: center;
+   margin: 0px 10px 0px 0px;
+}
